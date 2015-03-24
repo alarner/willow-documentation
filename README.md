@@ -6,6 +6,8 @@ http://nutellahabit.com/web-development/Documentation-First-Design
 ## API Documentation
 
 - Models
+	- Seeding
+	- Migrations
 - Views
 	- Templating (Handlebars)
 - Controllers
@@ -24,13 +26,21 @@ http://nutellahabit.com/web-development/Documentation-First-Design
 		- nginx
 		- aws
 		- heroku
+		- init script / forever
 	- Custom
 - Serving Static Files
 - Testing
+- Session Management
+- Internationalization (i18n)
 
 
 ## Guides
 
+- Installation
 - User Authentication
 - File Upload
 - Development Workflow
+- Sending Emails
+- Stripe Integration
+- API Creation
+- OAuth2 Integration
