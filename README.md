@@ -6,8 +6,7 @@ http://nutellahabit.com/web-development/Documentation-First-Design
 ## API Documentation
 
 - Models
-	- Seeding
-	- Migrations
+- Database
 - Views
 	- Templating (Handlebars)
 - Controllers
