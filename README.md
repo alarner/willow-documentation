@@ -1,36 +1,19 @@
-# willow-documentation
+# willow-documentation (experimental)
 
-Watch me and then come back in April
-http://nutellahabit.com/web-development/Documentation-First-Design
+This experimental version of the framework is based on the component based separation of concerns that React.js boasts, except it's a full stack framework. Each component is essentially independent from other components, yet can interact with them via events and models.
 
-## API Documentation
+## Component Properties
 
-- Models
-- Database
-- Views
-	- Templating (Handlebars)
-- Controllers
-- Middleware
-- Requests
-- Responses
-- Plugins/Addons/...
-- Configuration
-- Command Line Tool
-- Error messages
-- Routing
-- Configuration
-- Environments
-	- Development
-	- Production
-		- nginx
-		- aws
-		- heroku
-		- init script / forever
-	- Custom
-- Serving Static Files
-- Testing
-- Session Management
-- Internationalization (i18n)
+- description
+- route
+- events
+- options
+- errors
+- policies
+- models
+- initialize
+- render
+
 
 
 ## Guides
