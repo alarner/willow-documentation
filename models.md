@@ -22,7 +22,7 @@ module.exports = {
 		name: {
 			type: 'string',
 			required: true,
-			default: 'Aaron'
+			defaultValue: 'Aaron'
 		}
 	},
 	modelMethods: {
