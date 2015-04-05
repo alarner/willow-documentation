@@ -1,6 +1,6 @@
 # description
 
-This is just a string description of the purpose of the component.
+This is just a string describing the purpose of the component.
 
 ```js
 {

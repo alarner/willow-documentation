@@ -9,7 +9,7 @@ Events are the core foundation of each component. Events are triggered by user (
 			description: 'Triggered when a user tries to log in to the app.',
 			handlers: {
 				validation: {
-					type: 'front',
+					type: 'front', // or maybe this should be method... get, put, post, delete, or ????? for front-end
 					dependencies: [],
 					policies: [],
 					run: function(e, cb) {
